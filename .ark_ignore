@@ -42,7 +42,7 @@
 *.VC.opendb
 
 # Visual Studio Code
-*.vscode
+.vscode/
 *.code-workspace
 
 # Precompiled Assets
