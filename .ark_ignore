@@ -15,6 +15,7 @@
 # !images/logo.png     # exclude images/logo.png, so this will not be ignored
 # images/logo.png      # ignores images/logo.png (i.e. overrides the exclusion)
 
+# Version: 0.8.0
 # Ignore VS / VS Code settings directory
 .vs/
 .vscode/
