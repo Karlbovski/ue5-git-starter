@@ -124,3 +124,7 @@ DerivedDataCache/*
 !*FAQ
 !*VERSION
 !*ChangeLog
+
+# Specific to Project
+# */win*/cache/*       # ignore anything inside a path that has /win and /cache/, e.g. ThirdParty/Deprecated/WIN32/cache/
+# Example : */02_Sandbox/Animations/
